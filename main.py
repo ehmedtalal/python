@@ -1,7 +1,6 @@
 print(('talal')
 <<<<<<< HEAD
-#fuck on
-# haha
+# no comments
 =======
 # fuck off
 >>>>>>> refs/remotes/origin/main
